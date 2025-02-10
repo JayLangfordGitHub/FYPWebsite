@@ -7,6 +7,7 @@ description: Amazon Deal Tracker using Terraform, Kubernetes, and AWS.
 # 🚀 Deal Hub Aggregator  
 
 ## Author  
+![Jay Langford](assets/images/cheese.PNG){: .profile-pic }  
 **Jay Langford**  
 
 ## Overview  
@@ -66,6 +67,14 @@ The next phase involves developing the **frontend**:
 
 <style>
 @import url('/assets/css/custom.css');
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 10px auto;
+}
 </style>
 
 Stay tuned for updates! 🚀
