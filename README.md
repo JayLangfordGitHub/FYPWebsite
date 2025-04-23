@@ -4,19 +4,19 @@ title: Deal Hub Aggregator
 description: Amazon Deal Tracker using Terraform, Kubernetes, React and AWS.
 ---
 
-## 👤 Name  
+## Name  
 **Jay Langford**  
 
-## 🆔 Student Number  
+## Student Number  
 **20098918**  
 
-## 📚 Academic Title  
+## Academic Title  
 **Final Year Project - Deal Hub Aggregator**  
 
-## 💼 Commercial Title  
+## Commercial Title  
 **Amazon Deal Tracker with Infrastructure as Code**  
 
-## 📝 Project Description  
+## Project Description  
 The **Deal Hub Aggregator** is a web application that aggregates and displays trending Amazon deals. The system utilises the **Amazon API** to fetch and process product data, including:  
 
 - **Trending Items**  
@@ -30,14 +30,8 @@ The goal is to provide users with a centralised hub for tracking Amazon deals ef
 
 ---
 
-## 🖼️ Image  
+## Image  
 ![cheese](https://github.com/user-attachments/assets/47c9e927-c4fb-4c09-93e5-f7f222208f81)
-
----
-
-## 🔗 Project Landing Page
-
-➡ **[Visit the Project](https://jaylangfordgithub.github.io/FYPWebsite/)**  
 
 ---
 
