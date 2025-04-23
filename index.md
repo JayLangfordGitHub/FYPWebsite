@@ -11,27 +11,24 @@ description: Amazon Deal Tracker using Terraform, Kubernetes, React and AWS.
 **20098918**  
 
 ## Academic Title  
-**Final Year Project - Deal Hub Aggregator**  
+**Final Year Project - Amazon Deal Hub Aggregator**  
 
 ## Commercial Title  
-**Amazon Deal Tracker with Infrastructure as Code**  
+**Amazon Deal Hub Aggregator**  
 
 ## Project Description  
 The **Deal Hub Aggregator** is a web application that aggregates and displays trending Amazon deals. The system utilises the **Amazon API** to fetch and process product data, including:  
-
-- **Trending Items**  
-- **Best Deals**  
+  
 - **Product Information**  
 - **Price Chart & History**  
 - **Predicted Prices**  
-- **Direct Amazon Product Links**  
 
 The goal is to provide users with a centralised hub for tracking Amazon deals efficiently while optimising API usage and storage.  
 
 ---
 
 ## Image  
-![cheese](https://github.com/user-attachments/assets/47c9e927-c4fb-4c09-93e5-f7f222208f81)
+<img src="https://github.com/user-attachments/assets/47c9e927-c4fb-4c09-93e5-f7f222208f81" alt="cheese" class="profile-pic">
 
 ---
 
@@ -39,9 +36,9 @@ The goal is to provide users with a centralised hub for tracking Amazon deals ef
 @import url('/assets/css/custom.css');
 
 .profile-pic {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 12px;
     display: block;
     margin: 10px auto;
 }
