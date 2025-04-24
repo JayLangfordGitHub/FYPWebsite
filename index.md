@@ -25,6 +25,8 @@ The **Deal Hub Aggregator** is a web application that aggregates and displays tr
 
 The goal is to provide users with a centralised hub for tracking Amazon deals efficiently while optimising API usage and storage.  
 
+## GitHub Repository  
+https://github.com/JayLangfordGitHub/FYP
 ---
 
 ## Image  
@@ -36,7 +38,7 @@ The goal is to provide users with a centralised hub for tracking Amazon deals ef
 @import url('/assets/css/custom.css');
 
 .profile-pic {
-    max-width: 300px;
+    max-width: 200px;
     height: auto;
     border-radius: 12px;
     display: block;
